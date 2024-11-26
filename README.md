@@ -28,6 +28,8 @@ The main objective of this project is to implement and evaluate the QLSTM model,
 - **Comparison with Classical LSTM**: A comparison of the QLSTM’s performance against traditional LSTM models.
 
 ---
+![image](https://github.com/shivalee12/Quantum-LSTM/assets/77015285/408346e0-2cb9-4375-93c0-fd210ddc6f41)
+
 
 ## **Installation**
 
